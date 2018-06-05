@@ -27,6 +27,15 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
+## Installation
+
+1. git clone https://github.com/jcantobloonde/crm-ws // 1. git clone https://github.com/jcantobloonde/crm-ws
+2. composer update
+3. Crear base de datos desde donse sea posible(phpMyAdmin, MYSQLWorkBench) // 3. Create DataBase
+4. Configurar archivo .env (si no existe, se crea en la ruta del proyecto, se puede tomar como referencia el example) // 4. Modify .env file
+4. php artisan migrate
+5. php artisan db:seed
+
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
