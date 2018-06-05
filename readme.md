@@ -29,7 +29,7 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 
 ## Installation
 
-1. git clone https://github.com/jcantobloonde/crm-ws // 1. git clone https://github.com/jcantobloonde/crm-ws
+1. git clone https://github.com/jcantobloonde/crm-ws.git // 1. git clone https://github.com/jcantobloonde/crm-ws.git
 2. composer update
 3. Crear base de datos desde donse sea posible(phpMyAdmin, MYSQLWorkBench) // 3. Create DataBase
 4. Configurar archivo .env (si no existe, se crea en la ruta del proyecto, se puede tomar como referencia el example) // 4. Modify .env file
